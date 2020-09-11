@@ -1,0 +1,14 @@
+{
+  "name": "solidity-state-example",
+  "version": "1.0.0",
+  "description": "An example of using solidity state.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Kevin Stamps",
+  "license": "ISC"
+}
